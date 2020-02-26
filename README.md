@@ -1,2 +1,2 @@
 # ForumSpringBoot
-Fórum - Spring Boot Example
+Fórum - Spring Boot Project Example
